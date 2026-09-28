@@ -1,0 +1,31 @@
+{
+  "rowsImported": 852,
+  "websiteCategories": {
+    "Savouries & snacks": 180,
+    "Grocery": 169,
+    "Spices": 163,
+    "Cupboard food": 123,
+    "Flour & rice": 79,
+    "Lentils & grains": 43,
+    "Beverages": 27,
+    "Sweets": 27,
+    "Religious": 16,
+    "Pickles & paste": 12,
+    "Confectionary": 9,
+    "Home essentials & kitchen": 4
+  },
+  "uiCategories": {
+    "Cooking Essentials": 292,
+    "Snacks": 180,
+    "Spices": 163,
+    "Rice & Atta": 79,
+    "Dal & Pulses": 43,
+    "Sweets": 36,
+    "Drinks": 27,
+    "Household": 20,
+    "Pickles": 12
+  },
+  "inStock": 850,
+  "withImages": 719,
+  "saleItems": 249
+}
